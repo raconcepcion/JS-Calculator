@@ -1,3 +1,4 @@
+//sample comment
  var keys = document.querySelectorAll('span');
  var previousInput = '';
  var currentInput = '';
