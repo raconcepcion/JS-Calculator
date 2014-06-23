@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
 	margin: 0;
 	padding: 0;
@@ -56,3 +57,32 @@ span:active {
 	box-shadow:0 -2px 0 1px #19435E;
 	font-size:1.2em;
 }
+=======
+.wrap {
+	width:30%;
+	margin:auto;
+	margin-top:10%;
+}
+
+.container {
+	width:90%;
+}
+
+
+#screen {
+	height:34px;
+	border:1px solid #e3e3e3;
+	border-radius:5px;
+	text-align:right;
+	line-height:34px;
+	padding-right:7px;
+}
+
+.col-md-3 {
+	padding:3px;
+}
+
+.col-md-9 {
+	padding:3px;
+}
+>>>>>>> 92369294266b290c67fb83fcb707715cab4935f7
